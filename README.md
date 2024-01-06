@@ -5,9 +5,9 @@
 Easy to use.
 
 
-
-Jalali to Gregorian conversion.
-Gregorian to Jalali conversion.
-Day selector.
-Month selector.
-Year selector.
+<br/>
+Jalali to Gregorian conversion.<br/>
+Gregorian to Jalali conversion.<br/>
+Day selector.<br/>
+Month selector.<br/>
+Year selector.<br/>
